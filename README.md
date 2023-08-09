@@ -24,12 +24,11 @@ Command|Description
 !cursive|𝓫𝓮𝓬𝓪𝓾𝓼𝓮 𝓽𝓸𝓷𝓲𝓰𝓱𝓽 𝔀𝓲𝓵𝓵 𝓫𝓮 𝓽𝓱𝓮 𝓷𝓲𝓰𝓱𝓽 𝓽𝓱𝓪𝓽 𝓘 𝔀𝓲𝓵𝓵 𝓯𝓪𝓵𝓵 𝓯𝓸𝓻 𝔂𝓸𝓾 
 !deaths, !died|See how many deaths Jony has in the current game! Mods can use add/set/message to customize.
 !discord|Join the club~ https://discord.gg/zRrYguGtHN
-!dt|
+!dt|📅 🧹 ? 👀
 !enjoy|use "!enjoy {username}" to let everyone know that you enjoy them!
-!fc|
+!fc|get Jony's Switch friend code
 !fine, this is fine|this is fine.
 !followage|use this to find out how long you (or someone else) have been following Jony!
-!getdrown|
 !gothic|🅑🅤🅑🅑🅛🅔🅩 
 !grace|get a classic Grace line!
 !hats|See how many hats Jony has collected in Little Nightmares! Mods can use add/set/message to customize.
@@ -40,7 +39,6 @@ Command|Description
 !hype|share the hype when something great happens!!
 !instagram, !ig|Follow Jony on instagram (if u want)! http://instagram.com/jonysays
 !jonyplays, !mos faq play|allows notjonysays to join in on the fun
-!lesson|
 !lurk|Let everyone know that you're here but likely won't be active in chat. This is just one of the ways you can show your support without the pressure of needing to talk to anyone!
 !math|Use something like "!math 2 + 2" to get the answer! Functionality is limited so this will likely only work with "+", "-", "*", "/".
 !menu|See today's Krusty Krab menu!
@@ -84,7 +82,6 @@ Command|Description
 !tiny|ˡᶦˡ ᵗᶦⁿʸ ᶠʳᶦᵉᵈ ᵉᵍᵍˢ 
 !tomorrow|
 !twitter|
-!twt|
 !unlurk|
 !upsidedown|ƃuıןıǝɔ ǝɥʇ ɟɟo ƃuıɔunoq
 !valrank|
