@@ -21,7 +21,7 @@ Command|Description
 !coincount|find out how many seltzers you (or someone else) have claimed
 !coinflip|heads or tails?
 !corner|please just hiT THE CORNER
-!cursive|𝓫𝓮𝓬𝓪𝓾𝓼𝓮 𝓽𝓸𝓷𝓲𝓰𝓱𝓽 𝔀𝓲𝓵𝓵 𝓫𝓮 𝓽𝓱𝓮 𝓷𝓲𝓰𝓱𝓽 𝓽𝓱𝓪𝓽 𝓘 𝔀𝓲𝓵𝓵 𝓯𝓪𝓵𝓵 𝓯𝓸𝓻 𝔂𝓸𝓾 
+!cursive|𝓫𝓮𝓬𝓪𝓾𝓼𝓮 𝓽𝓸𝓷𝓲𝓰𝓱𝓽 𝔀𝓲𝓵𝓵 𝓫𝓮 𝓽𝓱𝓮 𝓷𝓲𝓰𝓱𝓽 𝓽𝓱𝓪𝓽 𝓘 𝔀𝓲𝓵𝓵 𝓯𝓪𝓵𝓵 𝓯𝓸𝓻 𝔂𝓸𝓾
 !deaths, !died|See how many deaths Jony has in the current game! Mods can use add/set/message to customize.
 !discord|Join the club~ https://discord.gg/zRrYguGtHN
 !dt|📅 🧹 ? 👀
@@ -29,7 +29,7 @@ Command|Description
 !fc|get Jony's Switch friend code
 !fine, this is fine|this is fine.
 !followage|use this to find out how long you (or someone else) have been following Jony!
-!gothic|🅑🅤🅑🅑🅛🅔🅩 
+!gothic|𝖌𝖔𝖙𝖍𝖎𝖈
 !grace|get a classic Grace line!
 !hats|See how many hats Jony has collected in Little Nightmares! Mods can use add/set/message to customize.
 !help|To get help for a topic, type "!help <topic>". For a list of available topics, type "!help list".
