@@ -47,7 +47,7 @@ Command|Description
 !nipnops|let them roam free
 !nom|Take a bite out of the food we're eating!
 !onlyfans, !of, !onlyhands|fun link~~
-!order|Place an order at the Krusty Krab using "!order <item1>, <item2>, etc." For more info/instructions, just send "!order" in chat.
+!order|Place an order at the Krusty Krab using "!order {item1}, {item2}, etc." For more info/instructions, just send "!order" in chat.
 !paths|get a list of paths Jony has taken in The Quarry
 !pattern|If Jony is sewing a pattern made by someone else, this will give you the link to it!
 !pronouns, !pronoun|Jony's pronouns are he/him. If you'd like to add yours to Twitch, head on over to https://pronouns.alejo.io/ <3
@@ -64,15 +64,15 @@ Command|Description
 !respect|Please do not comment on any character's physical appearance. Feel free to clown them for their actions (within limits) but please don't be disrespectful!
 !riot|get Jony's Riot tag
 !scream|See how many times Jony has peaked the mic in the current game! Mods can use add/set/message to customize.
-!seltzer, !seltzee, !seltzers|Home of the "!seltzer" command! Usage: "!seltzer <optional username>" to get your count, "!seltzer rank <optional username>" to get your rank amongst others, "!seltzer top <optional 1-20>" to get the top seltzer holders! 
+!seltzer, !seltzee, !seltzers|Home of the "!seltzer" command! Usage: "!seltzer {optional username}" to get your count, "!seltzer rank {optional username}" to get your rank amongst others, "!seltzer top {optional 1-20}" to get the top seltzer holders! 
 !slay|slay
 !sleep|we love sleep
 !socials|https://www.tiktok.com/@jonysays - Tiktok https://youtube.com/jonysays - Youtube https://instagram.com/jonysays - Instagram https://www.threads.net/@jonysays - Threads https://twitter.com/jonysays - Twitter https://discord.gg/zRrYguGtHN - Discord
 !song|get the song title and artist for the current song playing
 !specs|see Jony's PC specs
 !squidward|an honest testimonial
-!stan|if it only has 1 fan, that is you. Usage: "!stan <anything>"
-!sterling, !sterlong, !storling, !storlong|Get a random Sterling quote! Usage: "!sterling <optional number>" to get a random or specific quote.
+!stan|if it only has 1 fan, that is you. Usage: "!stan {anything}"
+!sterling, !sterlong, !storling, !storlong|Get a random Sterling quote! Usage: "!sterling {optional number}" to get a random or specific quote.
 !tableflip|
 !tempc, !ftoc|
 !tempf, !ctof|
