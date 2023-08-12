@@ -32,7 +32,7 @@ Command|Description
 !gothic|𝖌𝖔𝖙𝖍𝖎𝖈
 !grace|get a classic Grace line!
 !hats|See how many hats Jony has collected in Little Nightmares! Mods can use add/set/message to customize.
-!help|To get help for a topic, type "!help <topic>". For a list of available topics, type "!help list".
+!help|To get help for a topic, type "!help {topic}". For a list of available topics, type "!help list".
 !hiccup|increment the hiccup counter!
 !hug|use "!hug {username}" to give them a hug!
 !huh|huh??? (each use will result in a random amount (0-100) of question marks at the end)
