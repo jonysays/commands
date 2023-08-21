@@ -9,7 +9,7 @@ The following are the latest commands in Jony's channel (https://twitch.tv/jonys
 Command|Description
 -|-
 !11, 11:11, eleven eleven, 11 eleven, eleven 11, eleven:eleven, 11:eleven, eleven:11, 1111, !!:!!|use this at the 11th minute of any hour (aligned with EST) and something fishy will happen~
-!7tv|Can't see some of the emotes in chat? You can with the 7TV extension! This isn't an ad or anything, it just makes twitch 10x more fun with a whole lot of emotes: https://7tv.app/
+!7tv|Can't see some of the emotes in chat? You can with the FFZ extension! This isn't an ad or anything, it just makes twitch 10x more fun with a whole lot of emotes: https://www.frankerfacez.com/ (enable 7TV in settings)
 !ama, !ask, !confess, !anon|links to a form to anonymously submit questions/messages for me to read on stream
 !backseat, !backseating|sends a reminder not to backseat game *or* spoil things (mainly to help avoid it happening accidentally via unsolicited hints or jokes)
 !bankruptcy, !bankrupt|Out of points? File for bankruptcy and you'll get reset to a base amount that is multiplied by your seltzer count. You must have 0 points to file.
