@@ -73,40 +73,40 @@ Command|Description
 !squidward|an honest testimonial
 !stan|if it only has 1 fan, that is you. Usage: "!stan {anything}"
 !sterling, !sterlong, !storling, !storlong|Get a random Sterling quote! Usage: "!sterling {optional number}" to get a random or specific quote.
-!tableflip|
-!tempc, !ftoc|
-!tempf, !ctof|
+!tableflip|flip a table about something!! chaos!!!! aaARaRAGH (╯°□°)╯︵ ┻━┻. Usage: "!tableflip {anything}"
+!tempc, !ftoc|get the celsius temperature from fahrenheit
+!tempf, !ctof|get the fahrenheit temperature from celsius 
 !threads|
 !tiktok, !tt|
-!time|
+!time|get the current time for wherever Jony is
 !tiny|ˡᶦˡ ᵗᶦⁿʸ ᶠʳᶦᵉᵈ ᵉᵍᵍˢ 
-!tomorrow|
+!tomorrow|plz tomorrow corp i love u but i don't want to be doxxed anymore
 !twitter|
-!unlurk|
+!unlurk|announce your return~
 !upsidedown|ƃuıןıǝɔ ǝɥʇ ɟɟo ƃuıɔunoq
 !valrank|
-!vanish|
+!vanish|time yourself out for 1 second to clear your messages from chat for (most but not all) people, Usage: "!vanish"
 !voices|
-!walle|
-!xqc|
+!walle|walle!!
+!xqc|a lot going on here tbh
 !yawn|
 !youtube, !yt|
-barnacles|
+barnacles|something's... fishy
 dirty dan, dirtydan|who dares to claim the identity of dirty dan?
 good shit|let everyone know that something is .:.*good*.:.
 gpg|go piss girl
-i summon notjonysays|
-i'm late, i’m late, im late, i am late|
+i summon notjonysays|summon them
+i'm late, i’m late, im late, i am late|find out how late you are~ (seriously though no worries _at all_ it's rly okay)
 imagine being an ai, imagine being a bot, imagine being a computer, imagine being ai|target notjonysays for being a bot
 is it a bug or a feature, isitabugorafeature|use it to find out if this command is a bug or a feature
 kirsten|I really wish I had a good explanation for this one... just.. send it in chat and you'll see what it is
 olay|did you mean to play?
 pinhead, pin head|target pinhead larry
-shawty|
+shawty|shawtysays
 squidward smells, !squidwardsmells|good
-talk valentina|
-vibe|
-yams, yammys|
+talk valentina|talk Valentina!
+vibe|vibe check?
+yams, yammys|get some variation of the word yams
 
 ## Mod
 
@@ -135,8 +135,8 @@ Command|Description
 !sQueue|
 !sRefresh|
 !setcounter|
-!soig|
-!sott|
+!soig|Shout out someone's instagram. Usage: "!soig {username}"
+!sott|Shout out someone's tiktok. Usage: "!sott {jonysays}"
 !sr|
 !swag|
 all systems check|confirms that everything is going to be okay <3
