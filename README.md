@@ -13,7 +13,7 @@ Command|Description
 !ama, !ask, !confess, !anon|links to a form to anonymously submit questions/messages for me to read on stream
 !backseat, !backseating|sends a reminder not to backseat game *or* spoil things (mainly to help avoid it happening accidentally via unsolicited hints or jokes)
 !bankruptcy, !bankrupt|Out of points? File for bankruptcy and you'll get reset to a base amount that is multiplied by your seltzer count. You must have 0 points to file.
-!bubble|🅑🅤🅑🅑🅛🅔🅩 
+!bubble|🅑🅤🅑🅑🅛🅔🅩
 !burn|when the sunday scaries fire is visible, use this command to "burn" your scaries away!
 !chair|chair? chair.
 !clap|gives a round of applause 👏
@@ -64,7 +64,7 @@ Command|Description
 !respect|Please do not comment on any character's physical appearance. Feel free to clown them for their actions (within limits) but please don't be disrespectful!
 !riot|get Jony's Riot tag
 !scream|See how many times Jony has peaked the mic in the current game! Mods can use add/set/message to customize.
-!seltzer, !seltzee, !seltzers|Home of the "!seltzer" command! Usage: "!seltzer {optional username}" to get your count, "!seltzer rank {optional username}" to get your rank amongst others, "!seltzer top {optional 1-20}" to get the top seltzer holders! 
+!seltzer, !seltzee, !seltzers|Home of the "!seltzer" command! Usage: "!seltzer {optional username}" to get your count, "!seltzer rank {optional username}" to get your rank amongst others, "!seltzer top {optional 1-20}" to get the top seltzer holders, "!seltzer total" to get the total number of seltzers claimed ever!
 !slay|slay
 !sleep|we love sleep
 !socials|https://www.tiktok.com/@jonysays - Tiktok https://youtube.com/jonysays - Youtube https://instagram.com/jonysays - Instagram https://www.threads.net/@jonysays - Threads https://twitter.com/jonysays - Twitter https://discord.gg/zRrYguGtHN - Discord
@@ -75,11 +75,11 @@ Command|Description
 !sterling, !sterlong, !storling, !storlong|Get a random Sterling quote! Usage: "!sterling {optional number}" to get a random or specific quote.
 !tableflip|flip a table about something!! chaos!!!! aaARaRAGH (╯°□°)╯︵ ┻━┻. Usage: "!tableflip {anything}"
 !tempc, !ftoc|get the celsius temperature from fahrenheit
-!tempf, !ctof|get the fahrenheit temperature from celsius 
+!tempf, !ctof|get the fahrenheit temperature from celsius
 !threads|
 !tiktok, !tt|
 !time|get the current time for wherever Jony is
-!tiny|ˡᶦˡ ᵗᶦⁿʸ ᶠʳᶦᵉᵈ ᵉᵍᵍˢ 
+!tiny|ˡᶦˡ ᵗᶦⁿʸ ᶠʳᶦᵉᵈ ᵉᵍᵍˢ
 !tomorrow|plz tomorrow corp i love u but i don't want to be doxxed anymore
 !twitter|
 !unlurk|announce your return~
