@@ -88,6 +88,7 @@ Command|Description
 !vanish|time yourself out for 1 second to clear your messages from chat for (most but not all) people, Usage: "!vanish"
 !voices|
 !walle|walle!!
+!wick, !keanu|See how many times Jony's been compared to Keanu Reeves! Mods can use add/set/message to customize.
 !xqc|a lot going on here tbh
 !yawn|
 !youtube, !yt|
